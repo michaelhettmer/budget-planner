@@ -2,7 +2,7 @@ import axios, { Method } from "axios";
 import React, { useState } from "react";
 import { Button, Container, Form, Table } from "react-bootstrap";
 import { useMutation, useQuery } from "react-query";
-import Header from "../components/header.tsx";
+import Header from "../components/header";
 import { Entry } from "./db";
 import { queryCache } from "./_app";
 
