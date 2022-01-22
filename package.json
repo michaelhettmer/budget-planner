@@ -11,7 +11,7 @@
     "axios": "^0.21.1",
     "bootstrap": "^4.5.3",
     "lowdb": "^1.0.0",
-    "nanoid": "^3.1.18",
+    "nanoid": "^3.1.31",
     "next": "10.0.2",
     "react": "17.0.1",
     "react-bootstrap": "^1.4.0",
